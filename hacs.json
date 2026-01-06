@@ -1,0 +1,9 @@
+{
+  "name": "Hanet AI Camera Bridge",
+  "render_readme": true,
+  "content_in_root": false,
+  "zip_release": false,
+  "filename": "hanet_cloud_pro",
+  "homeassistant": "2024.1.0",
+  "iot_class": "local_polling"
+}
