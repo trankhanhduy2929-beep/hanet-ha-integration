@@ -1,0 +1,12 @@
+{
+  "domain": "hanet_cloud_pro",
+  "name": "Hanet AI Camera Bridge",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/home-assistant/addons",
+  "iot_class": "local_polling",
+  "version": "1.0.1",
+  "requirements": []
+}
+
+
